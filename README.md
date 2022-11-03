@@ -9,13 +9,10 @@ const Gustiki = {
 }
 
 ```
-Here you can find some of my social/professional media
+Here you can find some of my social media
 
 <a href="https://www.linkedin.com/in/gustavo-arcaya-308054223/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.kaggle.com/mehdimabrouki">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <a href="https://www.instagram.com/gustavo_renato/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -24,7 +21,12 @@ Here you can find some of my social/professional media
   <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-Here are some ideas to get you started:
+
+
+
+
+
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some top secret projects 
 - 🌱 I’m currently learning ...
