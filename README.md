@@ -41,8 +41,7 @@ def Gustiki(coffee):
     * On my free time I enjoy playing the bass, mostly rock music 🤘
     * I've never broken a bone.
 
-<br>
-
+    
 ## Let's get serious
 
 - If you are here in a 'Data Science' mood, you might be interested in looking at |CV-Work|.
