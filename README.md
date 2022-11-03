@@ -9,7 +9,7 @@ const Gustiki = {
 }
 
 ```
-## Social media :mailbox_with_no_mal:
+## Social media :mailbox_with_no_mail:
 
 <a href="https://www.linkedin.com/in/gustavo-arcaya-308054223/">
   <img align="left" alt="Gus's LinkdeIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
