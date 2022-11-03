@@ -3,7 +3,7 @@
 ```python
 const Gustiki = {
     pronouns= {"he" , "him"}
-    code = {'main': [Python, R], 'noob(ish)' : C, 'text_editing':LaTex]
+    code = {'main': [Python, R], 'noob(ish)' : C, 'text_editing':LaTex}
     tools = [Jupyter, VSCode, Texmaker]
     learning_rn = [SQL, Some_More_Python]
 }
