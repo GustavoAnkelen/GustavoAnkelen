@@ -19,9 +19,9 @@ Here you can find some of my social media
 </a>
 <a href="https://www.facebook.com/renatogustavoAE/">
   <img align="left" alt="Gus's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a> <br>
 
-</p>
+
 
 ### Here are some ideas to get you started:
 
