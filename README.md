@@ -3,8 +3,8 @@
 ```js
 const Gustavo = {
 pronouns : "he" | "him",
-code: [Python, R, C, LaTex]
-tools: [Jupyter, VSCode, Texmaker]
+code: [Python, R, C, LaTex],
+tools: [Jupyter, VSCode, Texmaker],
 learning_rn: [SQL, Some_More_Python, Algebraic_Geometry]
 }
 ```
