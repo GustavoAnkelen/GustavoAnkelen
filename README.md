@@ -42,3 +42,9 @@ def Gustiki(coffee):
     * I've never broken a bone.
 
 <br>
+
+## Let's get serious
+
+- If you are here in a 'Data Science' mood, you might be interested in looking at |CV-Work|.
+
+- If you are here in a 'Spherical' mood, this might interest you |CV-Math|, (also you can take a look at my undergraduate thesis |thesis|).
