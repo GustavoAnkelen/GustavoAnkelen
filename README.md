@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi there, I'm <em>Gustavo Ankelen<em>! 👋
 
-!--
-<em> GustavoAnkelen <em>
+```js
+const Gustiki = {
+    pronouns: "he" | "him",
+    code: [Python, R, C, LaTex],
+    tools: [Jupyter, VSCode, Texmaker]
+    learning_rn : [SQL, Some_More_Python]
+}
+
+```
 
 Here are some ideas to get you started:
 
