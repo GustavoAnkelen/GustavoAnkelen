@@ -24,16 +24,15 @@ const Gustiki = {
   <img align="left" alt="Gus's TTV" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
 </a><br>
 
-## Information about myself 
+## About myself 
 
 - 🔭 I’m currently working on some top secret projects 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Data Science techniques (job) and Algebraic Geometry (pleasure)
 - 👯 I’m currently looking to collaborate on Data Science training/projects.
-- 💬 Ask me about ...
 - 📫 How to reach me: gustavo.arcaya97@gmail.com | gustavo[dot]arcaya97[at]gmail[dot]com
 - ⚡ Fun facts:
-    * I speak Spanish (I'm chilean), English, some Portuguese and a little of German.
+    * I speak Spanish (I'm chilean), English, some Portuguese and a little bit of German.
     * On my free time I enjoy playing the bass, mostly rock music 🤘
-    * 
+    * I've never broken a bone 
 
 <br>
