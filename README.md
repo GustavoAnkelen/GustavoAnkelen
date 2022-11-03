@@ -37,7 +37,7 @@ def Gustiki(coffee):
 - 👯 I’m currently looking to collaborate on Data Science training/projects.
 - 📫 How to reach me: gustavo.arcaya97@gmail.com | gustavo[dot]arcaya97[at]gmail[dot]com
 - ⚡ Fun facts:
-    * I'm very proficient in Spanish (I'm chilean, buena hueón!), and speak proper English, some Portuguese and a little bit of German.
+    * I'm very proficient in Spanish (I'm chilean, <em>buena hueón!<em>), and speak proper English, some Portuguese and a little bit of German.
     * On my free time I enjoy playing the bass, mostly rock music 🤘
     * I've never broken a bone.
 
