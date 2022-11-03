@@ -9,7 +9,8 @@ const Gustiki = {
 }
 
 ```
-Here you can find some of my social media
+## Social media :mailbox_with_no_mal:
+[![Twitch URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://www.twitch.tv/gustiki)
 
 <a href="https://www.linkedin.com/in/gustavo-arcaya-308054223/">
   <img align="left" alt="Gus's LinkdeIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
