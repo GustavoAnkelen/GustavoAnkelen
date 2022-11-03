@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: gustavo.arcaya97@gmail.com | gustavo[dot]arcaya97[at]gmail[dot]com
 - ⚡ Fun facts:
-```math
-\begin{enumerate}
-    \item 
-    \item
-    \item
-\end{enumerate}
-```
+
+
 --
