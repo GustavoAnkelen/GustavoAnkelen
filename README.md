@@ -1,4 +1,4 @@
-### Hi there, I'm <em>Gustavo Ankelen<em>! 👋
+## Hi there, I'm <em>Gustavo Ankelen<em>! 👋
 
 ```js
 const Gustiki = {
@@ -24,17 +24,16 @@ const Gustiki = {
   <img align="left" alt="Gus's TTV" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
 </a><br>
 
-
-
-### Here are some ideas to get you started:
+## Information about myself 
 
 - 🔭 I’m currently working on some top secret projects 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning 
+- 👯 I’m currently looking to collaborate on Data Science training/projects.
 - 💬 Ask me about ...
 - 📫 How to reach me: gustavo.arcaya97@gmail.com | gustavo[dot]arcaya97[at]gmail[dot]com
 - ⚡ Fun facts:
+    * I speak Spanish (I'm chilean), English, some Portuguese and a little of German.
+    * On my free time I enjoy playing the bass, mostly rock music 🤘
+    * 
 
-
---
+<br>
