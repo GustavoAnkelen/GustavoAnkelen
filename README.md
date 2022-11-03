@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun facts:
-```tex
+```math
 \begin{enumerate}
     \item 
     \item
