@@ -1,13 +1,17 @@
 ## Hello there, I'm <em>Gustavo Ankelen<em>! 👋
 
-```python
-const Gustiki = {
-    pronouns= {"he" , "him"}
-    code = {'main': [Python, R], 'noob(ish)' : C, 'text_editing':LaTex}
-    tools = [Jupyter, VSCode, Texmaker]
-    learning_rn = [SQL, Some_More_Python]
-}
+```js
+pronouns= {"he" , "him"}
+code = {'main': [Python, R], 'noob(ish)' : C, 'text_editing':LaTex}
+tools = [Jupyter, VSCode, Texmaker]
+learning_rn = [SQL, Some_More_Python, Algebraic_Geometry]
+```
 
+A quick depiction of my days
+```python
+def Gustiki(coffee):
+    coffee.drink()
+    return(Theorems)    
 ```
 ## Social media :mailbox_with_no_mail:
 
