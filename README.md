@@ -1,10 +1,12 @@
 ## Hello there, I'm <em>Gustavo Ankelen<em>! 👋
 
 ```js
-pronouns= {"he" , "him"}
-code = {'main': [Python, R], 'noob(ish)' : C, 'text_editing':LaTex}
-tools = [Jupyter, VSCode, Texmaker]
-learning_rn = [SQL, Some_More_Python, Algebraic_Geometry]
+const Gustavo = {
+pronouns : "he" | "him",
+code: [Python, R, C, LaTex]
+tools: [Jupyter, VSCode, Texmaker]
+learning_rn: [SQL, Some_More_Python, Algebraic_Geometry]
+}
 ```
 
 A quick depiction of my days
