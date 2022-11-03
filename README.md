@@ -39,6 +39,6 @@ def Gustiki(coffee):
 - ⚡ Fun facts:
     * I speak Spanish (I'm chilean), English, some Portuguese and a little bit of German.
     * On my free time I enjoy playing the bass, mostly rock music 🤘
-    * I've never broken a bone 
+    * I've never broken a bone.
 
 <br>
