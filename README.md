@@ -41,9 +41,9 @@ def Gustiki(coffee):
     * On my free time I enjoy playing the bass, mostly rock music 🤘
     * I've never broken a bone.
 
-    
+
 ## Let's get serious
 
-- If you are here in a 'Data Science' mood, you might be interested in looking at |CV-Work|.
+- If you are here in a 'Data Science' mood, you might be interested in looking at my [Work-CV](https://drive.google.com/file/d/1YGt58lSM-3qscpz2l0NNthsqu6P_g1Xu/view?usp=share_link).
 
-- If you are here in a 'Spherical' mood, this might interest you |CV-Math|, (also you can take a look at my undergraduate thesis |thesis|).
+- If you are here in a 'Spherical' mood, this might interest you [Academical-CV](https://drive.google.com/file/d/1AmMv7EDALbvsliNFUIcdsAidNCTyFy-J/view?usp=share_link), (also you can take a look at my  [undergraduate thesis](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing)).
