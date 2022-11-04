@@ -46,4 +46,4 @@ def Gustiki(coffee):
 
 - If you are here in a 'Data Science' mood, you might be interested in looking at my [Work-CV](https://drive.google.com/file/d/1YGt58lSM-3qscpz2l0NNthsqu6P_g1Xu/view?usp=share_link).
 
-- If you are here in a 'Spherical' mood, this might interest you [Academical-CV](https://drive.google.com/file/d/1AmMv7EDALbvsliNFUIcdsAidNCTyFy-J/view?usp=share_link), (also you can take a look at my  [undergraduate thesis](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing)).
+- If you are here in a 'Spherical' mood, this might interest you [Academical-CV](https://drive.google.com/file/d/1AmMv7EDALbvsliNFUIcdsAidNCTyFy-J/view?usp=share_link), (also you can take a look at my  [undergraduate thesis](https://drive.google.com/file/d/1CzKW2h84jtBQgGhYa1zTONGYW_8QdTFA/view?usp=share_link)).
