@@ -1,4 +1,5 @@
 ## Hello there, I'm <em>Gustavo Ankelen<em>! 👋
+#### I'm a Mathematic Civil Engineer from Valparaiso, Chile. Right now im working as Data Scientist, and starting in a Master's Program in mathematics.
 
 ```js
 const Gustavo = {
