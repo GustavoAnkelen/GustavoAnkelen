@@ -4,8 +4,9 @@
 const Gustavo = {
 pronouns : "he" | "him",
 code: [Python, R, C],
-tools: [Jupyter, VSCode, LaTex],
-learning_rn: [SQL, Some_More_Python, Data_Science, Algebraic_Geometry]
+tools: [Jupyter, VSCode, LaTex, SQL],
+learning_rn: [Some_More_Python, Data_Science, Algebraic_Geometry]
+ongoing : "Master in Mathematics, IMPA, Rio de Janeiro"
 }
 ```
 
