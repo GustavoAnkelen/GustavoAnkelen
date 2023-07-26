@@ -48,6 +48,6 @@ def Gustiki(coffee):
 
 - If you are here in a 'Data Science' mood, you might be interested in looking at my [Work-CV 📄](https://drive.google.com/file/d/1YGt58lSM-3qscpz2l0NNthsqu6P_g1Xu/view?usp=sharing).
 
-- If you are here in a 'Spherical' mood, my [Academical-CV 📄](https://drive.google.com/file/d/15xTh81hoA9a8XZhJIIL8AVijcfuzZ-_5/view?usp=drivesdk) could be more interesting.
+- If you are here in a 'Spherical' mood, my [Academical-CV 📄](https://drive.google.com/file/d/16Rudvi_L0hWzXryftkXuZU6gCXQn6F3m/view?usp=drivesdk) could be more interesting.
     
 - Also you can take a look at my  [undergraduate thesis 📖](https://drive.google.com/file/d/1CzKW2h84jtBQgGhYa1zTONGYW_8QdTFA/view?usp=sharing), feel free to comment any doubt or typing errors you find.
