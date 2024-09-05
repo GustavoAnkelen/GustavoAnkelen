@@ -6,7 +6,7 @@ const Gustavo = {
 pronouns : "he" | "him",
 code: [Python, R, C],
 tools: [Jupyter, VSCode, LaTex, SQL],
-learning_rn: [Riemannian_Geometry, Algebraic_Topology ],
+learning_rn: [Symplectic_Geometry, Galois_Theory ],
 ongoing : "Master in Mathematics, IMPA, Rio de Janeiro"
 }
 ```
@@ -39,7 +39,7 @@ def Gustiki(coffee):
 - 📫 How to reach me: gustavo.arcaya97@gmail.com | gustavo[dot]arcaya97[at]gmail[dot]com
 - ⚡ Fun facts:
     * I'm very proficient in Spanish (I'm chilean, <em>buena hueón!<em>), and speak proper English and Portuguese, and a little bit of German.
-    * On my free time I enjoy playing the bass, mostly rock music 🤘
+    * On my free time I enjoy learning languages, duolingo is a close friend with the family
     * I've never broken a bone.
 
 
