@@ -6,7 +6,7 @@ const Gustavo = {
 pronouns : "he" | "him",
 code: [Python, R, C],
 tools: [Jupyter, VSCode, LaTex, SQL],
-learning_rn: [Symplectic_Geometry, Galois_Theory ],
+learning_rn: [Differential Topology, Deep Learning, Machine Learning],
 ongoing : "Master in Mathematics, IMPA, Rio de Janeiro"
 }
 ```
