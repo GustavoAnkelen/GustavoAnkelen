@@ -45,7 +45,7 @@ def Gustiki(coffee):
 
 ## Let's get serious
 
-- If you are here in a 'Data Science' mood, you might be interested in looking at my [Work-CV 📄(ENG-version)](hhttps://drive.google.com/file/d/1zSV4OICAwO6N5ap-Riy9BnJtjnC3IlOq/view?usp=sharing).
+- If you are here in a 'Data Science' mood, you might be interested in looking at my [Work-CV 📄(ENG-version)](https://drive.google.com/file/d/1zSV4OICAwO6N5ap-Riy9BnJtjnC3IlOq/view?usp=sharing).
 
 - If you are here in a more 'abstract-nonsensical' mood, my [Academical-CV 📄](https://drive.google.com/file/d/1ISOH03NstZXhgbgrrganiFthaq6WoIOR/view?usp=sharing) could be more interesting.
     
